@@ -1,5 +1,5 @@
 counter = 6   
 while counter < 10 
-  puts "Wingardium Leviosa"
+  puts ""
 counter += 1
 end
